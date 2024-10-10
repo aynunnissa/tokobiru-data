@@ -45,26 +45,13 @@
   "products": [
     {
       "id": 1,
-      "body": "some PRODUCT NO CAT",
-      "postId": 1,
-      "category_id": 1
-    },
-    {
-      "id": 2,
-      "body": "some PRODUCT",
-      "postId": 1,
-      "category_id": 1
-    },
-    {
-      "id": 3,
-      "body": "some OTHER PRODUCT",
-      "postId": 2,
-      "category_id": 2
-    },
-    {
-      "id": 4,
-      "body": "some comment",
-      "postId": 1,
+      "master_image": "https://raw.githubusercontent.com/aynunnissa/tokobiru-data/main/images/products/lampu-1-master.webp",
+      "name": "Lampu LED Vinverth Paket 5 7 9 11 Watt W Multipack Essential Ess 5W 7W 9W 11W",
+      "price": 117000,
+      "discounted_price": 53880,
+      "discount_percentage": "54%",
+      "selling": "1RB Terjual",
+      "rating": "4.7",
       "category_id": 1
     }
   ]
