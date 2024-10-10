@@ -28,6 +28,20 @@
   "profile": {
     "name": "typicode"
   },
+  "hallo": [
+    {
+      "id": 1,
+      "body": "some PRODUCT NO CAT",
+      "postId": 1,
+      "abc": 1
+    },
+    {
+      "id": 2,
+      "body": "some PRODUCT NO CAT",
+      "postId": 1,
+      "abc": 2
+    }
+  ],
   "products": [
     {
       "id": 1,
