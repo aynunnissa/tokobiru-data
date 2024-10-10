@@ -32,24 +32,14 @@
     {
       "id": 1,
       "body": "some PRODUCT NO CAT",
-      "postId": 1
+      "postId": 1,
+      "category_id": 1
     },
     {
       "id": 2,
       "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "products?category_id=1": [
-    {
-      "id": 1,
-      "body": "some PRODUCT",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "postId": 1,
+      "category_id": 2
     }
   ]
 }
