@@ -1,4 +1,16 @@
 {
+  "banners": [
+    {
+      id: 1,
+      src: "https://raw.githubusercontent.com/aynunnissa/tokobiru-data/main/images/banners/banner1.webp",
+      alt_image: "Smart Watch discount hingga 80%"
+    },
+    {
+      id: 2,
+      src: "https://raw.githubusercontent.com/aynunnissa/tokobiru-data/main/images/banners/banner2.webp",
+      alt_image: "Redmi Note 10 harga terbaik ada di sini"
+    }
+  ],
   "flashsale": [
     {
       "id": 1,
